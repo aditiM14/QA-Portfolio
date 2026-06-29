@@ -1,0 +1,15 @@
+/target/
+/test-output/
+/.settings/
+/bin/
+
+*.class
+*.log
+
+.project
+.classpath
+
+.idea/
+*.iml
+
+.DS_Store
