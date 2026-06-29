@@ -33,8 +33,6 @@ This repository demonstrates my practical skills in Manual Testing, API Testing,
 * Authentication Testing
 * CRUD Operations
 * Negative Testing
-* API Test Cases
-* API Bug Reports
 
 ### Selenium Automation
 
